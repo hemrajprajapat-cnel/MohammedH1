@@ -1,0 +1,191 @@
+{
+  "Header": {
+    "title": "Let the digits flow ",
+    "paragraph": "Infrastructure tailored to your needs!"
+  },
+  "About": {
+    "paragraph": "Our company is based on human connections, a long-lost trait most other companies lack. Here at Digital Reign, we consolidated a uniquely balanced formula of great employee relations and efficient quality work. Being a veteran owned business once on the frontlines; now covering your six and keeping you safe.",
+    "paragraph2": "At Digital Reign throughout the years, we have devised the most timeless practice to keep your business and data safety. Currently compliance has been the focus of organizations in the US and across the world, while sacrificing operational security. We try our best to compensate for both; compliance, without compromising real time security.",
+    "Why": [
+      "Government ",
+      "Enterprises",
+      "Financial Institutes",
+      "Healthcare",
+      "Manufacturers"
+    ],
+    "Why2": [
+
+    ]
+  },
+  "Features_revamp": {
+    "paragraph": "Through years of experience, our team at Digital Reign has devised a sophisticated approach to keep your data safe, support daily IT operations and maintain set forth compliance. Attaining framework compliance has been the focus of organizations in the US and across the world, while sacrificing operational security. Here at Digital Reign both; implementing compliance and upkeeping with real time security are second nature to us."
+  },
+  "Certificates": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-university",
+      "name": "Infrastructure support",
+      "text": "We also provide state of the art infrastructure support including ITIL -DevOPs, IT HelpdeskServers & Databases maintenance, Lifecycle (system upgrades)"
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Cyber Security",
+      "text": "our cyber security products include and is not limited to compliance audits, Continuous Monitoring, Vulnerability management, and Cyber awareness training."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Compliance",
+      "text": "Pen testing is also one of our specialties here we offer Internal, External, Phishing, SEWireless, WebApp,Mobile "
+    },
+    {
+      "icon": "",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud Support",
+      "text": "At digital Reign we provide a variety of cloud services such as AWS, Azure, Compliance, Migration, Hybrid solutions, Test environment"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Khilal Alzubaydi",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Meechy",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mohammed Hakari",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Markgren!",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Joseph D Leary",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "",
+    "phone": "(978)362-9523",
+    "email": "ops@digitalreign.us",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
